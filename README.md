@@ -71,4 +71,4 @@ Full script: [`sql/sales_analysis.sql`](sql/sales_analysis.sql)
 3. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
 
 ## Contact
-[Your Name] | [LinkedIn URL] | [Email]
+[Himanshu Painuly] | [https://www.linkedin.com/in/himanshu-painuly-1924a7295] | [himanshu.painuly98@gmail.com]
