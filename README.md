@@ -10,7 +10,7 @@ Which categories, segments, regions and states drive sales and profit, and where
 ## Dataset
 - Retail Superstore sales data, **2019 to 2022**
 - **9,986 order line items** across **5,009 orders** and **793 customers**, 19 columns (orders, customers, products, sales, profit, discount, region, state)
-- Source: [add dataset link, e.g. Kaggle]
+- Source: [https://www.kaggle.com/datasets/timchant/supstore-dataset-2019-2022?resource=download]
 
 ## Tools Used
 Excel | MySQL | Power BI | DAX
